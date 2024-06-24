@@ -2,7 +2,7 @@ tensorflow>=2.3.0
 imgaug==0.4
 opencv-python~=4.5
 matplotlib~=3.4
-sklearn
+scikit-learn
 tqdm
 pascal_voc_writer
 tf2onnx
